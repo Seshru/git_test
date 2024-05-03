@@ -1,0 +1,2 @@
+Hello World! 
+I am going to complete the Odin Project curriculum, and continue to build further portfolio projects in order to begin a career in Web Development.
